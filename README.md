@@ -4,7 +4,7 @@
 
 본 저장소는 **"CALL(Community Alignment through Large Language models)"** 논문의 공식 저장소입니다. CALL은 대규모 언어 모델(LLM)을 활용하여 온라인 커뮤니티의 정치적 특성을 자동으로 파악하고, 이를 기반으로 커뮤니티별 맞춤형 에이전트를 생성 및 평가하는 프레임워크입니다.
 
-![Image](https://github.com/user-attachments/assets/9259347a-8f7b-4050-b519-cb4682da063b)
+![Image](https://github.com/user-attachments/assets/1ba849eb-d639-45dd-8ee0-6a4188175578)
 
 ## 데이터셋
 
